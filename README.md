@@ -1,4 +1,4 @@
-# 🔥 Augment Cleaner v3.0 - ULTIMATE Bypass Edition
+# 🔥 Augment Cleaner v3.1 - ULTIMATE Bypass Edition
 
 A revolutionary C# Windows Forms application specifically designed for Augment Code v0.536.0+ (August 2025) that provides ultimate bypass capabilities with 95%+ success rate.
 
