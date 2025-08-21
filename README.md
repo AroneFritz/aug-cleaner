@@ -1,7 +1,5 @@
 🔥Augment Code
 
-🚨 CRITICAL: Why People Still Get Suspended
-
 Even after using our tool, some users report suspensions. This happens because:
 
 1. **Incomplete Cleaning**: Not following ALL steps in this guide
@@ -10,7 +8,7 @@ Even after using our tool, some users report suspensions. This happens because:
 4. **Network Traces**: IP/VPN detection and correlation
 5. **Browser Fingerprinting**: Advanced canvas, WebGL, and audio fingerprinting
 6. **Deep System Persistence**: Memory dumps, hibernation files, and system restore points
-7. **ULTRA-DEEP HARDWARE TRACKING**: BIOS/UEFI, TPM, CPU microcode, and firmware-level persistence
+7. **DEEP HARDWARE TRACKING**: BIOS/UEFI, TPM, CPU microcode, and firmware-level persistence
 
 ⚠️ LEGAL DISCLAIMER
 
